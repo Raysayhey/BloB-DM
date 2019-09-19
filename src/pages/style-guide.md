@@ -8,6 +8,8 @@ menus:
   main:
     title: ''
     weight: ''
+  secondary:
+    weight: ''
 template: page
 ---
 
