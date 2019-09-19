@@ -3,7 +3,7 @@ title: Terms & conditions
 subtitle: Rules and regulations
 menus:
   secondary:
-    title: Terms & conditions
+    title: ''
 template: page
 ---
 ### Welcome to DM-Block
