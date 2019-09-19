@@ -5,7 +5,10 @@ sections:
       - label: Contact Us
         url: /contact
     component: HeroBlock
-    content: "\\*\\*Boost Your Success\\*\\*\r\n\n\rContact us to work with a results-driven digital internet marketing agency"
+    content: |-
+      **Boost Your Success**
+
+      Contact us to work with a results-driven digital internet marketing agency
     image: images/hero.png
     section_id: hero
     title: READY TO GROW YOUR BUSINESS?
@@ -22,13 +25,13 @@ sections:
       - actions:
           - label: Learn More
             url: /what-we-do
-        content: "Take Control of your online reputation.\r\n\n\rAfter all the hard work you have put in your business, you deserve a stellar online reputation.\r\n\n\rWe’ll build your brand assets and improve search results. The goal is to make your brand stand out among all the noise. \r\n\n\rContact us for a free  analysis.tor."
+        content: "Take Control of your online reputation.\r\n\n\rAfter all the hard work you have put in your business, you deserve a stellar online reputation.\r\n\n\rWe’ll build your brand assets and improve search results. The goal is to make your brand stand out among all the noise. \r\n\n\rContact us for a free  analysis."
         image: images/feature2.png
         title: Brand Management
       - actions:
           - label: Learn More
             url: /what-we-do
-        content: "Our passion is growing your business through the power of the internet.\r\n\n\rFrom SEO, Social Media Marketing to Content Marketing and Online Advertsing our team ensures your products and services sell.\r\n\n\rDon’t miss out on quality leads to your business. We’ll help you get started and thrive.."
+        content: "Our passion is growing your business through the power of the internet.\r\n\n\rFrom SEO, Social Media Marketing to Content Marketing and Online Advertising our team ensures your products and services sell.\r\n\n\rDon’t miss out on quality leads to your business. We’ll help you get started and thrive.."
         image: images/feature3.png
         title: Digital Marketing
     section_id: what-we-do
@@ -43,32 +46,35 @@ sections:
       - author: John Doe
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          DM-Block is reliable, dependable and trustworthy in my experience.They
+          also know their subject really well and have been experts in SEO for a
+          long time.I trust their advice and I value the insights and
+          recommendations they make for my businesses.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          We have used DM-Block for the past 5 years and they are now an
+          integral part of our digital marketing strategy. We have numerous
+          websites and some in-house developers but they give us independent
+          advice and keep us informed of all the latest changes in this arena.
       - author: Richard Roe
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          DM-Block are very professional, experienced and a pleasure to deal
+          with. I highly recommend Leslie without hesitation. Leslie’s knowledge
+          of SEO is not only vast it is also (and this is vital with the ever
+          changing Google algorithm) up to date and cutting edge.
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: We love compliments...
     title: Testimonials
     type: reviewsblock
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Succeed Today
+        url: /contact
     component: CtaBlock
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Contact us to work with a results-driven digital internet marketing agency
+    title: READY TO GROW YOUR BUSINESS?
     type: ctablock
   - bg: gray
     component: PostsBlock
