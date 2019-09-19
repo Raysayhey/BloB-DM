@@ -25,9 +25,9 @@
     "content": "&copy; DM-Block. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
+        "text": "Privacy & Terms",
+        "url": "/terms-conditions",
+        "new_window": false
       }
     ],
     "nav_title": "Company",
