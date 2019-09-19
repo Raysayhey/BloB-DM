@@ -1,61 +1,44 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    section_id: hero
-    title: This Is A Big Hero Headline
+  - actions:
+      - label: Contact Us
+        url: /contact
     component: HeroBlock
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: "\\*\\*Boost Your Success\\*\\*\r\n\n\rContact us to work with a results-driven digital internet marketing agency"
     image: images/hero.png
-    actions:
-      - label: Learn More
-        url: /features
-  - type: featuresblock
-    section_id: features
-    title: Features
+    section_id: hero
+    title: READY TO GROW YOUR BUSINESS?
+    type: heroblock
+  - bg: gray
     component: FeaturesBlock
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+      - actions:
+          - label: Learn More
+            url: /what-we-do
+        content: "You pay your sales team to sell. If your sales team isn’t talking to a client, they are not doing their primary function.\r\n\n\rOur internet marketing agency frees up your sales team to do their work. We get QUALIFIED leads for your business. Every day.\r\n\n\rSales leads abound, if you know where to look for them.\r\n\n\rWe do."
         image: images/feature1.png
-        actions:
+        title: Lead Generation
+      - actions:
           - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+            url: /what-we-do
+        content: "Take Control of your online reputation.\r\n\n\rAfter all the hard work you have put in your business, you deserve a stellar online reputation.\r\n\n\rWe’ll build your brand assets and improve search results. The goal is to make your brand stand out among all the noise. \r\n\n\rContact us for a free  analysis.tor."
         image: images/feature2.png
-        actions:
+        title: Brand Management
+      - actions:
           - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+            url: /what-we-do
+        content: "Our passion is growing your business through the power of the internet.\r\n\n\rFrom SEO, Social Media Marketing to Content Marketing and Online Advertsing our team ensures your products and services sell.\r\n\n\rDon’t miss out on quality leads to your business. We’ll help you get started and thrive.."
         image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-  - type: reviewsblock
-    section_id: reviews
-    title: Testimonials
-    component: ReviewsBlock
+        title: Digital Marketing
+    section_id: what-we-do
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    bg: white
+      Are you ready to leave ordinary marketing in the dust and get better
+      results? You have found your partner.
+    title: What We Do
+    type: featuresblock
+  - bg: white
+    component: ReviewsBlock
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
@@ -73,22 +56,29 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: ctablock
-    section_id: call-to-action
-    title: This Is Call To Action Block!
-    component: CtaBlock
-    subtitle: This is an optional description for the call to action block.
-    actions:
+    section_id: reviews
+    subtitle: >-
+      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
+      semper libero id sodales. 
+    title: Testimonials
+    type: reviewsblock
+  - actions:
       - label: Get Started
         url: /signup
-  - type: postsblock
+    component: CtaBlock
+    section_id: call-to-action
+    subtitle: This is an optional description for the call to action block.
+    title: This Is Call To Action Block!
+    type: ctablock
+  - bg: gray
+    component: PostsBlock
     section_id: recent-posts
     title: Latest Posts
-    component: PostsBlock
-    bg: gray
+    type: postsblock
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
+
