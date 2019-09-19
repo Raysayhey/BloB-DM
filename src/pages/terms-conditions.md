@@ -1,6 +1,9 @@
 ---
 title: Terms & conditions
 subtitle: Rules and regulations
+menus:
+  secondary:
+    title: Terms & conditions
 template: page
 ---
 ### Welcome to DM-Block
