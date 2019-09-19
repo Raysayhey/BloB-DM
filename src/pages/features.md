@@ -24,9 +24,6 @@ sections:
     featureslist:
       - actions: []
         content: >-
-          ![SEO](/images/005-seo400.png)
-
-
           Through careful keyword research and white hat practices, we can help
           you achieve high rankings in the major search engines.
         image: /images/005-seo400.png
