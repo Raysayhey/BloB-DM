@@ -27,18 +27,18 @@ We are a brand strategy and engagement consultancy, empowering businesses with  
 
 We combine talent and technology to build connected brands and  turn customers into life time brand ambassadors.
 
-## <mark>Consultancy</mark>
+#### <mark>Consultancy</mark>
 
 We provide highly sophisticated  suite of interactive digital  solutions to meet your business  and brand objectives.
 
-\#### <mark>Brand Management</mark>
+#### <mark>Brand Management</mark>
 
 Our digital brand management  services enables you to manage,  monitor and build your brand  equity in the digital world.
 
-\#### <mark>Training</mark>
+#### <mark>Training</mark>
 
 We offer custom digital training  workshops and seminars to  Individuals and corporate  companies looking to build in  house competence.
 
-\#### <mark>Technical & Innovation</mark>
+#### <mark>Technical & Innovation</mark>
 
 We design and develop feature-  rich websites, social media and  mobile applications to facilitate  deeper community interaction and  eCommerce.
