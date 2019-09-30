@@ -11,7 +11,7 @@ menus:
   secondary:
     title: About Us
     weight: 1
-template: page
+template: about
 ---
 > Our brand
 

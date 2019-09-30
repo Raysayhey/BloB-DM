@@ -40,8 +40,8 @@ export default class Project extends React.Component {
       </p>
     </div>
     <footer className="c-card__footer">
-    <a className="ikone" href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
-    <a className="ikone" href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+    <a className="ikone" href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+    <a className="ikone" href="https://twitter.com" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
     </footer>
   </article>
     <article className="c-card c-card--center">
