@@ -5,24 +5,24 @@ sections:
     component: PricingBlock
     pricingplans:
       - actions:
-          - label: Order Now
+          - label: Kontakt
             url: /contact
-        details: "![Basic Plan](/images/041-canoe200.png)\n\n* Lead Generation Page\r\n* Facebook Advertising\r\n* Weekly Facebook Posts\r\n* Analytics & Reporting\r\n* Facebook Advertising"
-        price: CHF 5/m
-        title: Basic
+        details: "![Basic Plan](/images/041-canoe200.png)\n\n* Analyse\r\n* Kampagne\r\n* SEO"
+        price: mind. 350.-
+        title: Klein
       - actions:
-          - label: Order Now
+          - label: Kontakt
             url: /contact
-        details: "![Professional Plan](/images/042-jetski200.png)\n\n* 7 Page Website\r\n* Advanced Social Media Branding\r\n* Facebook Advertising\r\n* Google Adwords\r\n* Email Marketing"
-        highlight: true
-        price: CHF 49/m
-        title: Professional
+        details: "![Professional Plan](/images/042-jetski200.png)\n\n* Analyse\r\n* Kampagne\r\n* SEO"
+        highlight: false
+        price: mind. 800.-
+        title: Mittel
       - actions:
-          - label: Order Now
+          - label: Kontakt
             url: /contact
-        details: "![Enterprise Plan](/images/044-amphibious-vehicle200.png)\n\n* Advanced Social Media Marketing\r\n* Google Adwords\r\n* Facebook Ads\r\n* Advanced Email Marketing\r\n* Search Engine Optimisation"
-        price: CHF 149/m
-        title: Enterprise
+        details: "![Enterprise Plan](/images/044-amphibious-vehicle200.png)\n\n* Analyse & Monitor\r\n* Kampagne\r\n* Technische SEO"
+        price: mind. 1200.-
+        title: Gross
     section_id: pricing
     subtitle: ''
     title: Pricing Plans
@@ -37,10 +37,10 @@ sections:
           Can you provide relevant and current benchmark data for
           peers/competitors?
       - answer: "We customize reports for all levels of our clients’ marketing teams.\r\n\n\rEach of your stakeholders has varying levels of interest in each marketing program and, thus, varying KPI’s for which they need reporting. For this reason, we provide tailor made reports for each client that suits their exact reporting needs.."
-        question: What kind of reports will I receive?
+        question: Was für Analyse Berichte dürfen Sie erwarten?
     section_id: faq
-    subtitle: Our Process & Client Expectations
-    title: Frequently Asked Questions
+    subtitle: Unsere Leistung & Ihre Erwartungen
+    title: Häufige Fragen
     type: faqblock
 menus:
   main:

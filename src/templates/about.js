@@ -209,7 +209,7 @@ export default class Project extends React.Component {
                       </a>
                     </div>
                   </li>
-                  <li class="hex">
+                  {/* <li class="hex">
                     <div class="hexIn">
                       <a class="hexLink" href="goo.com">
                         <div
@@ -256,7 +256,7 @@ export default class Project extends React.Component {
                         </p>
                       </a>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </article>

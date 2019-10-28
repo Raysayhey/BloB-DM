@@ -1,7 +1,7 @@
 #hexGrid {
 	display: flex;
 	flex-wrap: wrap;
-	width: 90%;
+	width: 80%;
 	margin: 0 auto;
 	overflow: hidden;
 	font-family: sans-serif;
@@ -154,10 +154,10 @@
 	  padding-bottom: 4.4%
 	}
 	.hex {
-	  width: 20%; /* = 100 / 5 */
+	  width: 25%; /* = 100 / 5 */
 	}
-	.hex:nth-child(9n+6){ /* first hexagon of even rows */
-	  margin-left:10%;  /* = width of .hex / 2  to indent even rows */
+	.hex:nth-child(9n+5){ /* first hexagon of even rows */
+	  margin-left:12.5%;  /* = width of .hex / 2  to indent even rows */
 	}
   }
   

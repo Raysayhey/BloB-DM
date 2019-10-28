@@ -6,12 +6,12 @@ sections:
         url: /contact
     component: HeroBlock
     content: |-
-      **Boost Your Success**
+      **Marketing Digitalisierung**
 
-      Contact us to work with a results-driven digital internet marketing agency
+      Kontaktieren Sie uns für eine Abklärung wie unsere Agentur Ihnen helfen kann.
     image: images/hero.png
     section_id: hero
-    title: READY TO GROW YOUR BUSINESS?
+    title: Digital Marketing
     type: heroblock
   - bg: gray
     component: FeaturesBlock
@@ -44,7 +44,7 @@ sections:
     component: ReviewsBlock
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
+        avatar: images/group71.png
         content: >-
           DM-Block is reliable, dependable and trustworthy in my experience.They
           also know their subject really well and have been experts in SEO for a

@@ -1,8 +1,7 @@
 ---
-title: About Us
+title: Über uns
 subtitle: >-
-  We are a performance based digital marketing agency catering to clients in the
-  Switzerland Region.
+  Wir sind eine digital marketing agency aus Zürich. Spezialisiert auf Growth Hacking
 img_path: /images/about.png
 menus:
   main:
